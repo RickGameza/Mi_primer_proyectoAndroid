@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HolaMundo</string>
+    <string name="titulo_app">Hello World I am pickle Rick!</string>
+    <string name="evaluacion">I hope you like my first application!</string>
+    <string name="todo">TODO</string>
+</resources>
